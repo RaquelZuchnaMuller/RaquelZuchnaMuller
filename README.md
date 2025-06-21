@@ -21,6 +21,12 @@ When I’m not coding, you’ll probably find me listening to lo-fi, drinking co
 
 ---
 
+## 📈 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelZuchnaMuller&layout=compact)](https://github.com/RaquelZuchnaMuller/github-readme-stats)
+
+---
+
 🧠 **What I’m currently practicing...**
 
 Building systems with Python
