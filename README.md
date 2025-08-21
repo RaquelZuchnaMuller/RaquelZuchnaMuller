@@ -1,10 +1,9 @@
 👩🏻‍💻 **Sobre Mim / About Me**
 
-Sou uma futura desenvolvedora back-end apaixonada por resolver problemas, aprender coisas novas e transformar ideias em código.
-Quando não estou programando, estou provavelmente ouvindo lo-fi, tomando café ou pensando em algum projeto novo pra criar! ☕ 💻
+Sou uma futura desenvolvedora apaixonada por resolver problemas, aprender coisas novas e transformar ideias em código. Quando não estou estudando ou programando, estou provavelmente praticando atividade fisica, tomando café ou pensando em algum projeto novo pra criar em algum lugar do mundo! ☕ 💻
 
-I’m a future back-end developer passionate about solving problems, learning new things, and turning ideas into code.
-When I’m not coding, you’ll probably find me listening to lo-fi, drinking coffee, or thinking about a new project to build! ☕ 💻
+I'm an aspiring developer passionate about solving problems, learning new things, and turning ideas into code.
+When I'm not studying or programming, you'll probably find me working out, sipping coffee, or dreaming up a new project to build somewhere in the world! ☕ 💻
 
 ---
 
